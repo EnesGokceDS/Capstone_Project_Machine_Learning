@@ -1,4 +1,4 @@
-# Raizel820-Capstone_Project_Machine_Learning
+# Capstone_Project_Machine_Learning
 
 * Project Scripts 
 * Data Cleaning
